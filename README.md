@@ -3,6 +3,7 @@ Interadstive IoT is a solution to make the interaction between a person and his 
 
 ## How it works
 ![alt tag](http://www.sompartyapp.com/smart_ads/img/tecnologia.jpg)
+
 The android application tracks the places where the user has been during the day or in the past and his social media interactions. Then, we push the collected data to the cloud and applying big data analytics, we determine an user profile.
 Based on that, we make the devices, with a javascript web application loaded, to interact with the user using proximity technology (in this example we focused on beacon bluetooth lte).
  
