@@ -15,7 +15,7 @@ Then you put a beacon at the back of a touch TV, tablet or any dive with a scree
 
 Finally, you go close to the screen with the attached beacon and you can interact with it.
 
-In the demo, we adapted it to retail allowing the client to [segment and configure the ads](http://www.sompartyapp.com/smart_ads/) enable a personalized consumer shop experience. 
+In the demo, we adapted it to retail allowing the client to [segment and configure the ads](http://www.sompartyapp.com/smart_ads/), enabling a personalized consumer shop experience. 
 
 
 
