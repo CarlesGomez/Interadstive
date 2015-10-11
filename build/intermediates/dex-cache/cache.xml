@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/rubengrafgarcia/Desktop/smart_ads/android/smartads/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/rubengrafgarcia/Desktop/smart_ads/android/smartads/app/build/intermediates/pre-dexed/debug/classes-6998bca453f7e8db79210155066810cb47bfcf0a.jar" />
+    </item>
+    <item
+        jar="/Users/rubengrafgarcia/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/Users/rubengrafgarcia/Desktop/smart_ads/android/smartads/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-ed66c9d84fffaa85e124c60a6f98a028e24413ec.jar" />
+    </item>
+    <item
+        jar="/Users/rubengrafgarcia/Desktop/smart_ads/android/smartads/app/build/intermediates/exploded-aar/com.estimote/sdk/0.8.7/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="35a0c1d44c9d4b70bb67706deae62c2f03a40544">
+        <dex dex="/Users/rubengrafgarcia/Desktop/smart_ads/android/smartads/app/build/intermediates/pre-dexed/debug/classes-17a409ba8d641181583f3ef3d8fb37660966f444.jar" />
+    </item>
+    <item
+        jar="/Users/rubengrafgarcia/Desktop/smart_ads/android/smartads/app/build/intermediates/exploded-aar/com.github.manuelpeinado.multichoiceadapter/multichoiceadapter/3.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="31aeeb451f3663d3d54ffaa744d05c24790e76ba">
+        <dex dex="/Users/rubengrafgarcia/Desktop/smart_ads/android/smartads/app/build/intermediates/pre-dexed/debug/classes-e312b798d39c9029c5076d0821e2592048a8314f.jar" />
+    </item>
+    <item
+        jar="/Users/rubengrafgarcia/Desktop/smart_ads/android/smartads/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="/Users/rubengrafgarcia/Desktop/smart_ads/android/smartads/app/build/intermediates/pre-dexed/debug/classes-8a1a3381aeeed6e462526fbc433f127da28b731b.jar" />
+    </item>
+    <item
+        jar="/Users/rubengrafgarcia/Desktop/smart_ads/android/smartads/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/rubengrafgarcia/Desktop/smart_ads/android/smartads/app/build/intermediates/pre-dexed/debug/classes-084399e75596ae03864803dc2feefd16e7b51699.jar" />
+    </item>
+    <item
+        jar="/Users/rubengrafgarcia/Desktop/smart_ads/android/smartads/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/rubengrafgarcia/Desktop/smart_ads/android/smartads/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-3ee946411c0e212e3cb3a7cec34e087744b3f8bc.jar" />
+    </item>
+    <item
+        jar="/Users/rubengrafgarcia/Documents/AndroidSdk/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/rubengrafgarcia/Desktop/smart_ads/android/smartads/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-2a0e9104016ee8fef594a9ef3f29a787e6962128.jar" />
+    </item>
+    <item
+        jar="/Users/rubengrafgarcia/Desktop/smart_ads/android/smartads/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="/Users/rubengrafgarcia/Desktop/smart_ads/android/smartads/app/build/intermediates/pre-dexed/debug/classes-37cafc78235544815ef972b6e8af1c9c7cd8fdad.jar" />
+    </item>
+    <item
+        jar="/Users/rubengrafgarcia/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.4/dd9eeb557650c4ad7394df23f0f5cf27a7cfc697/universal-image-loader-1.9.4.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="dd9eeb557650c4ad7394df23f0f5cf27a7cfc697">
+        <dex dex="/Users/rubengrafgarcia/Desktop/smart_ads/android/smartads/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.4-a11910fe12a687b5f9ebbade195c2b0fda712952.jar" />
+    </item>
+    <item
+        jar="/Users/rubengrafgarcia/Desktop/smart_ads/android/smartads/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.5.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="15ad6a46fb8e2ed86556e0b330d738b589dc62c7">
+        <dex dex="/Users/rubengrafgarcia/Desktop/smart_ads/android/smartads/app/build/intermediates/pre-dexed/debug/classes-245446b52c9c6f8e9b7d151c8f4c5137989dd59d.jar" />
+    </item>
+    <item
+        jar="/Users/rubengrafgarcia/Desktop/smart_ads/android/smartads/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="/Users/rubengrafgarcia/Desktop/smart_ads/android/smartads/app/build/intermediates/pre-dexed/debug/classes-2c76955371747d26580303179aac2f5d846a8a8e.jar" />
+    </item>
+
+</items>

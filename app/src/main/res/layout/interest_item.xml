@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/headerLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="10dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/headerText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Header"
+            android:textSize="20dp"
+            android:gravity="center_horizontal"
+            android:background="@color/ColorPrimaryDark"
+            android:textColor="#fff" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/listItemLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+            <android.support.v7.widget.CardView
+                xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/card_view"
+                android:tag="1"
+                android:orientation="vertical"
+                android:layout_width="0dp"
+                android:layout_height="190dp"
+                android:layout_weight="0.5"
+                card_view:cardCornerRadius="4dp"
+                android:layout_marginRight="2.5dp"
+                android:layout_marginBottom="5dp">
+
+                <com.manuelpeinado.multichoiceadapter.CheckableImageView
+                    xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:tag="image"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:scaleType="centerCrop"/>
+
+                <TextView
+                    android:id="@+id/itemHeaderText"
+                    android:tag="header"
+                    android:visibility="gone"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="top"
+                    android:text="Header 1" />
+
+                <TextView
+                    android:id="@+id/itemSubHeaderText"
+                    android:tag="subHeader"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="bottom"
+                    android:background="#88000000"
+                    android:textColor="#fff"
+                    android:text="Header 2"
+                    android:password="false"
+                    android:gravity="center_horizontal"
+                    android:textStyle="bold"
+                    android:textSize="16dp" />
+            </android.support.v7.widget.CardView>
+            <android.support.v7.widget.CardView
+                xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/card_view2"
+                android:tag="2"
+                android:orientation="vertical"
+                android:layout_width="0dp"
+                android:layout_height="190dp"
+                android:layout_weight="0.5"
+                card_view:cardCornerRadius="4dp"
+                android:layout_marginLeft="2.5dp"
+                android:layout_marginBottom="5dp">
+
+                <com.manuelpeinado.multichoiceadapter.CheckableImageView
+                    xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:tag="image"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:scaleType="centerCrop"/>
+
+                <TextView
+                    android:id="@+id/itemHeaderText2"
+                    android:tag="header"
+                    android:visibility="gone"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="top"
+                    android:text="Header 1"
+                    android:textAlignment="center"/>
+
+                <TextView
+                    android:id="@+id/itemSubHeaderText2"
+                    android:tag="subHeader"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="bottom"
+                    android:background="#88000000"
+                    android:textColor="#fff"
+                    android:text="Header 2"
+                    android:gravity="center_horizontal"
+                    android:textStyle="bold"
+                    android:textSize="16dp" />
+            </android.support.v7.widget.CardView>
+
+    </LinearLayout>
+</LinearLayout>
